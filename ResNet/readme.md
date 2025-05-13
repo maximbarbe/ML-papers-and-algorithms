@@ -1,0 +1,1 @@
+He, K., Zhang, H., Ren, S. et Sun, J., (2015, 10 décembre). Deep Residual Learning for Image Recognition. <i>arXiv</i>. Prépublication. https://doi.org/10.48550/arXiv.1512.03385.
